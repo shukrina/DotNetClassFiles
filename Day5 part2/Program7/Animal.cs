@@ -18,7 +18,7 @@ namespace Program7
             Description = description;
             Type = type;
         }
-        public void WhereItLives(string Type)
+        public void WhereItLives()
         {
             if (Type == "wild")
                 Console.WriteLine("It lives in jungle");
@@ -26,7 +26,7 @@ namespace Program7
                 Console.WriteLine("It lives at home.");
 
         }
-        public void WhatItEats(string Description)
+        public void WhatItEats()
         {
             if (Description == "herbivorous")
                 Console.WriteLine("It eats grass.");
@@ -39,10 +39,10 @@ namespace Program7
     internal class WildAnimal: Animal
     {
         public WildAnimal(string name, string description, string type) : base(name, description, type) { }
-        public new void WhereItLives(string Type)
+        public new void WhereItLives()
         {
             Console.WriteLine(Name + " lives in jungle.");
-            base.WhatItEats(Description);
+            base.WhatItEats();
         }
         
     }
