@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Program5
 {
-    //parameterized constructor and constructor overloading
+    //program showing parameterized constructor
     internal class Animal
     {
         public string Name { get; set; }
@@ -19,7 +19,7 @@ namespace Program5
             Description = "herbivorous";
             Type = "pet";
         }
-        public Animal(string Name,string Description, string Type)
+        public Animal(string Name,string Description, string Type)//parameterized constructor
         {
             Console.WriteLine("A parameterized constructor is invoked.");
             this.Name= Name;
