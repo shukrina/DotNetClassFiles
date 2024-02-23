@@ -42,7 +42,7 @@ namespace Program7
         public new void WhereItLives()
         {
             Console.WriteLine(Name + " lives in jungle.");
-            base.WhatItEats();
+            base.WhatItEats();//this is the base keyword used to call base class function
         }
         
     }
