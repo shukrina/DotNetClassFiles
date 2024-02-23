@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Program5
 {
+    //parameterized constructor and constructor overloading
     internal class Animal
     {
         public string Name { get; set; }
