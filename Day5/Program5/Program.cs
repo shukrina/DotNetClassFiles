@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Program5
 {
-    //parameterized constructor and constructor overloading
+    //parameterized constructor
     internal class Program
     {
         static void Main(string[] args)
