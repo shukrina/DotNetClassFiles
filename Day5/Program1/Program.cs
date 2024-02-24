@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Program1
 {
-    //program to show how reference of the method in class is passed to another method
-    //yo alik mileko xaina jasto lagyo
+    //program to show how reference of an object is passed to another method
     internal class Program
     {
         static void Main(string[] args)
