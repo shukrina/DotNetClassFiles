@@ -19,7 +19,7 @@ namespace Program5
             Description = "herbivorous";
             Type = "pet";
         }
-        public Animal(string Name,string Description, string Type)
+        public Animal(string Name,string Description, string Type)//this is the parameterized constructor used
         {
             Console.WriteLine("A parameterized constructor is invoked.");
             this.Name= Name;
