@@ -1,0 +1,7 @@
+D:\Shukrina Koju\B.Sc.CSIT\6th semester\CSC367 - NET Centric Computing\CSharpPrograms\3Week\Day7\Program8\bin\Debug\Program8.exe.config
+D:\Shukrina Koju\B.Sc.CSIT\6th semester\CSC367 - NET Centric Computing\CSharpPrograms\3Week\Day7\Program8\bin\Debug\Program8.exe
+D:\Shukrina Koju\B.Sc.CSIT\6th semester\CSC367 - NET Centric Computing\CSharpPrograms\3Week\Day7\Program8\bin\Debug\Program8.pdb
+D:\Shukrina Koju\B.Sc.CSIT\6th semester\CSC367 - NET Centric Computing\CSharpPrograms\3Week\Day7\Program8\obj\Debug\Program8.csproj.AssemblyReference.cache
+D:\Shukrina Koju\B.Sc.CSIT\6th semester\CSC367 - NET Centric Computing\CSharpPrograms\3Week\Day7\Program8\obj\Debug\Program8.csproj.CoreCompileInputs.cache
+D:\Shukrina Koju\B.Sc.CSIT\6th semester\CSC367 - NET Centric Computing\CSharpPrograms\3Week\Day7\Program8\obj\Debug\Program8.exe
+D:\Shukrina Koju\B.Sc.CSIT\6th semester\CSC367 - NET Centric Computing\CSharpPrograms\3Week\Day7\Program8\obj\Debug\Program8.pdb
